@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/it12/svn/!svn/ver/553/SWE/Teams/awesome/trunk/src/test/resources
+END
+test01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/it12/svn/!svn/ver/553/SWE/Teams/awesome/trunk/src/test/resources/test01.xml
+END
+test02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/it12/svn/!svn/ver/553/SWE/Teams/awesome/trunk/src/test/resources/test02.xml
+END
+test03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/it12/svn/!svn/ver/553/SWE/Teams/awesome/trunk/src/test/resources/test03.xml
+END
